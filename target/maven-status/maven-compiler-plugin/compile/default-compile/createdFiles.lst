@@ -1,0 +1,14 @@
+Others\ExcelRead.class
+Pages\Dresses.class
+Others\Log.class
+Pages\ShoppingCart.class
+Others\BrowserInitiate.class
+Pages\HomePage.class
+Pages\OrderHistoryPage.class
+Pages\ShippingPage.class
+Pages\CreatePage.class
+Pages\AddressPage.class
+Pages\LoginPage.class
+Others\Screenshot.class
+Pages\PaymentSelectionPage.class
+Pages\PaymentOrderPage.class

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="71753" started-at="2020-04-29T11:35:31 IST" finished-at="2020-04-29T11:36:43 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71753" started-at="2020-04-29T11:35:31 IST" finished-at="2020-04-29T11:36:43 IST">
+      <class name="Test.Test1">
+        <test-method status="PASS" signature="browserInitiation()[pri:0, instance:Test.Test1@6392827e]" name="browserInitiation" is-config="true" duration-ms="13745" started-at="2020-04-29T11:35:17 IST" finished-at="2020-04-29T11:35:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInitiation -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Test.Test1@6392827e]" name="test1" duration-ms="33577" started-at="2020-04-29T11:35:31 IST" finished-at="2020-04-29T11:36:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:1, instance:Test.Test1@6392827e]" name="test2" duration-ms="38107" started-at="2020-04-29T11:36:05 IST" finished-at="2020-04-29T11:36:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:Test.Test1@6392827e]" name="afterSuite" is-config="true" duration-ms="1341" started-at="2020-04-29T11:36:43 IST" finished-at="2020-04-29T11:36:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- Test.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
